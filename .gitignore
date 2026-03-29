@@ -1,3 +1,8 @@
-*.tmp.driveupload
-*.tmp.drivedownload
-/Library
+*Library
+*Temp
+*Obj
+*Build
+*Logs
+*.user
+*.suo
+*.cache
