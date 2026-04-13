@@ -21,9 +21,7 @@ public class IceTurret : MonoBehaviour
         {
             FreezeEnemies();
             timeUntilFire = 0f;
-
         }
-
     }
 
     private void FreezeEnemies()
@@ -38,18 +36,13 @@ public class IceTurret : MonoBehaviour
                 EnemyMovement em = hit.transform.GetComponent<EnemyMovement>();
                 em.UpdateSpeed(0.5f);
                 StartCoroutine(ResetEnemySpeed(em));
-
             }
-
         }
-
     }
 
     private IEnumerator ResetEnemySpeed(EnemyMovement em)
     {
         yield return new WaitForSeconds(freezeTime);
         em.ResetSpeed();
-
     }
-
 }

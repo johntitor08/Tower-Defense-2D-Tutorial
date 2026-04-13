@@ -16,7 +16,6 @@ public class EnemyMovement : MonoBehaviour
     {
         target = LevelManager.main.path[pathIndex];
         baseSpeed = moveSpeed;
-
     }
 
     private void Update()
@@ -30,35 +29,27 @@ public class EnemyMovement : MonoBehaviour
                 EnemySpawner.onEnemyDestroy.Invoke();
                 Destroy(gameObject);
                 return;
-
             }
             else
             {
                 target = LevelManager.main.path[pathIndex];
-
             }
-
         }
-
     }
 
     private void FixedUpdate()
     {
         Vector2 direction = (target.position - transform.position).normalized;
         rb.linearVelocity = direction * moveSpeed;
-
     }
 
     public void UpdateSpeed(float newSpeed)
     {
         moveSpeed = newSpeed;
-
     }
 
     public void ResetSpeed()
     {
         moveSpeed = baseSpeed;
-
     }
-
 }

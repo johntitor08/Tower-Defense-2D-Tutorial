@@ -8,13 +8,11 @@ public class UIManager : MonoBehaviour
     private void Awake()
     {
         main = this;
-
     }
 
     public void SetHoveringState(bool state)
     {
         isHoveringUI = state;
-
     }
 
     public bool IsHoveringUI()
@@ -22,5 +20,4 @@ public class UIManager : MonoBehaviour
         return isHoveringUI;
 
     }
-
 }

@@ -13,7 +13,5 @@ public class Tower
         this.name = name;
         this.cost = cost;
         this.prefab = prefab;
-
     }
-
 }

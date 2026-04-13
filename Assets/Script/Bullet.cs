@@ -14,23 +14,20 @@ public class Bullet : MonoBehaviour
     public void SetTarget(Transform target)
     {
         this.target = target;
-
     }
 
     private void FixedUpdate()
     {
-        if (!target) return;
+        if (!target)
+            return;
 
         Vector2 direction = (target.position - transform.position).normalized;
         rb.linearVelocity = direction * bulletSpeed;
-
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         collision.gameObject.GetComponent<Health>().TakeDamage(bulletDamage);
         Destroy(gameObject);
-
     }
-
 }

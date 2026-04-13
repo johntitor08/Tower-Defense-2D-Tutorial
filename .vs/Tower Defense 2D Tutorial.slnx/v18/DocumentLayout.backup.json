@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\buildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\iceturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\iceturret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\plot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\main\\unity\\tower defense 2d tutorial\\assets\\script\\upgradeuihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\upgradeuihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpgradeUIHandler.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\UpgradeUIHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UpgradeUIHandler.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\UpgradeUIHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\UpgradeUIHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIManager.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Turret.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Turret.cs",
+              "RelativeToolTip": "Assets\\Script\\Turret.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tower.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Tower.cs",
+              "RelativeToolTip": "Assets\\Script\\Tower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:39.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Plot.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Plot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Plot.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Plot.cs",
+              "RelativeToolTip": "Assets\\Script\\Plot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Menu.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:32.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IceTurret.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\IceTurret.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IceTurret.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\IceTurret.cs",
+              "RelativeToolTip": "Assets\\Script\\IceTurret.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Health.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Health.cs",
+              "RelativeToolTip": "Assets\\Script\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:28.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv0EAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyMovement.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyMovement.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:23.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildManager.cs",
+              "DocumentMoniker": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\BuildManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BuildManager.cs",
+              "ToolTip": "C:\\main\\Unity\\Tower Defense 2D Tutorial\\Assets\\Script\\BuildManager.cs",
+              "RelativeToolTip": "Assets\\Script\\BuildManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T21:50:18.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
