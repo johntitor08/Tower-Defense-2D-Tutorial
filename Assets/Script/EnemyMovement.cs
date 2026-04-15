@@ -41,6 +41,7 @@ public class EnemyMovement : MonoBehaviour
     {
         Vector2 direction = (target.position - transform.position).normalized;
         rb.linearVelocity = direction * moveSpeed;
+        transform.Rotate(-90f * Time.deltaTime * Vector3.forward);
     }
 
     public void UpdateSpeed(float newSpeed)
