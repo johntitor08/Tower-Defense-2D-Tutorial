@@ -18,6 +18,5 @@ public class UIManager : MonoBehaviour
     public bool IsHoveringUI()
     {
         return isHoveringUI;
-
     }
 }

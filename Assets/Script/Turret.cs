@@ -25,22 +25,33 @@ public class Turret : MonoBehaviour
     private int level = 1;
     private float bpsBase = 1f;
     private float targetingRangeBase = 5f;
+    private Coroutine targetSearchCoroutine;
 
     private void Start()
     {
         bpsBase = bps;
         targetingRangeBase = targetingRange;
         upgradeButton.onClick.AddListener(Upgrade);
-        transform.position = new Vector3(transform.position.x, transform.position.y + 0.3f, 0f);
+    }
+
+    private void OnEnable()
+    {
+        targetSearchCoroutine = StartCoroutine(TargetSearchRoutine());
+    }
+
+    private void OnDisable()
+    {
+        if (targetSearchCoroutine != null)
+        {
+            StopCoroutine(targetSearchCoroutine);
+            targetSearchCoroutine = null;
+        }
     }
 
     private void Update()
     {
         if (target == null)
-        {
-            StartCoroutine(TargetSearchRoutine());
             return;
-        }
 
         RotateTowardsTarget();
 

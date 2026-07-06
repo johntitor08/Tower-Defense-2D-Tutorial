@@ -12,6 +12,9 @@ public class Menu : MonoBehaviour
     private void OnEnable()
     {
         LevelManager.OnCurrencyChanged += UpdateCurrencyUI;
+
+        if (LevelManager.main != null)
+            UpdateCurrencyUI(LevelManager.main.Currency);
     }
 
     private void OnDisable()
